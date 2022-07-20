@@ -44,7 +44,7 @@
 ```
 ### 5. 제품 리스트 페이지
 ```
-• fetch, jQuery등 사용해서 페이지 이동
+• fetch, Queryparameter등 사용해서 페이지 이동
 • pagination을 통한 더보기 버튼 구현.
 ```
 ### 6. 제품 상세 페이지
